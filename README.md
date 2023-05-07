@@ -1,2 +1,2 @@
 # Jogo
-desenvolvimento do meu primeiro jogo
+Jogo feito no meu segundo semestre da faculdade de Engenharia de Software.
